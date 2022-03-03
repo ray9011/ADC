@@ -1,0 +1,6 @@
+Function: use BOOT button to trigger IRremote Sender to Receiver
+Coding: IRremote_Button.ino = attachInterrupt.ino + SimpleSender.ino + SimpleReceiver.ino
+
+save code to ~/Documents/Arduino/examples/IRremote_Button/IRremote_Button.ino
+verify the code on NodeMCU-32S board
+then upload IRremote_Button.ino to https://www.github.com/yourname/arduino
